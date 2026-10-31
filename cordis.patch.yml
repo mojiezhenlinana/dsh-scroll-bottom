@@ -1,0 +1,4 @@
+# dsh-scroll-bottom bundle patch: 一行宿主插件，浏览器半边由 dsh.client 自动加载。
+- insert:
+    - id: dsh-scroll-bottom
+      name: 'dsh-scroll-bottom'
