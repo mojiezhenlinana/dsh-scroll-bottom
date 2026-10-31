@@ -30,5 +30,13 @@
     "scroll",
     "scroll-to-bottom"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojiezhenlinana/dsh-scroll-bottom.git"
+  },
+  "homepage": "https://github.com/mojiezhenlinana/dsh-scroll-bottom#readme",
+  "bugs": {
+    "url": "https://github.com/mojiezhenlinana/dsh-scroll-bottom/issues"
+  },
   "license": "MIT"
 }
